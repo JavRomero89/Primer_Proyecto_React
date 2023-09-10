@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+
+.creditCard-box{
+    
+    width: 22em;
+    border-radius: 6px;
+    height: 12em;  
+}
+
+
+
+.number{
+    font-size: 2em;
+    display: flex;
+    justify-content: space-around;
+    padding: 0.3em 0 0 0;
+}
+
+#bankData{
+    
+    display: flex;
+    gap: 1em;
+    padding: 1em 0 0 2em;
+    
+}
+
+.owner{
+    padding: 0 0 0 2em;
+}
+
+.type{
+    display: flex-end;
+    justify-content: end;
+    align-items: end;
+    height: 2em;
+    padding: 0.7em 0 0 17em;
+
+}

@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+.boxLinkedin{
+    width: 25em;
+    border-radius: 6px;
+    height: 15em;  
+}
+.containerText{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    padding: 1em 0 0 2em;
+}
+.name{
+    font-size: 2em;
+}
+
