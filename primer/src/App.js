@@ -3,6 +3,7 @@
 
 import "./App.css";
 import Board from "./components/board/Board";
+import ColorTheme from "./components/colortheme/ColorTheme";
 import Counter from "./components/counter/Counter.jsx";
 import CreditCard from "./components/creditCard/CreditCard";
 import LikeButton from "./components/likebutton/LikeButton";
@@ -85,6 +86,8 @@ function App() {
             <Counter/>
 
             <LikeButton/>
+
+            <ColorTheme/>
         </>
     );
 }

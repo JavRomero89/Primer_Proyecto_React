@@ -1,0 +1,29 @@
+.color.light .container {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    color: #333;
+}
+
+.color.dark .container {
+    background-color: #333;
+    border: 1px solid #555;
+    color: #f1f1f1;
+}
+
+.theme-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.light .theme-button {
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+.dark .theme-button {
+    background-color: #555;
+    color: #f1f1f1;
+}
