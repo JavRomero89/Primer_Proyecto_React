@@ -83,7 +83,7 @@ function App() {
                 
             </div> */}
 
-            <Counter/>
+            {/* <Counter/> */}
 
             <LikeButton/>
 
